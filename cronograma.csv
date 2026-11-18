@@ -1,0 +1,15 @@
+trilha,fase,curso,horas_curso,horas_feitas,status
+Hashtag,1. Fundamentos,Git e GitHub,5,5,concluido
+Hashtag,1. Fundamentos,Python Impressionador,118,0,em_andamento
+Hashtag,1. Fundamentos,SQL Impressionador,92,0,a_comecar
+Hashtag,2. IA aplicada,APIs de Inteligencia Artificial,6,0,a_comecar
+Hashtag,2. IA aplicada,Agentes de IA com Python,8,0,a_comecar
+Hashtag,2. IA aplicada,Inteligencia Artificial Impressionador,56,0,a_comecar
+Hashtag,3. Engenharia e nuvem,Dashboards com Python (Streamlit),14,0,a_comecar
+Hashtag,3. Engenharia e nuvem,Desenvolvimento Web com Python,57,0,a_comecar
+Hashtag,3. Engenharia e nuvem,AWS Impressionador,23,0,a_comecar
+Hashtag,3. Engenharia e nuvem,Agentes de IA e N8N Impressionador,49,0,a_comecar
+Hashtag,4. Portfolio e carreira,Processos Seletivos,10,0,a_comecar
+Hashtag,4. Portfolio e carreira,Entrevistas com gestores,7,0,a_comecar
+Corporativo,Contexto empresa,IA responsavel e governanca de dados,18,18,concluido
+Idiomas,Ingles,Ingles Impressionador,251,0,em_andamento
